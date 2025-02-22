@@ -1,0 +1,12 @@
+// Loadash's _.chunk
+
+// Lodash - Lodash is a utility library for javascript,
+//          providing functions to work with arrays, objects, strings, etc.
+
+// syntax 
+
+_.chunk(array, size)
+
+// Example
+
+const _ = require("lodash")
